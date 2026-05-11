@@ -6,6 +6,8 @@ sites:
     url: https://java.leanderziehm.com/
   - name: Math API
     url: https://math-api.leanderziehm.com/
+  - name: Wordpress
+    url: https://wordpress.leanderziehm.com/
 
 status-website:
   cname: https://leanderziehm.github.io/uptime-monitor-upptime/  # change if you use your own domain
